@@ -1,0 +1,30 @@
+h1{
+	color: red;
+}
+table, td {
+	border: 1px solid black;
+}
+p, h2{
+	color: brown;
+}
+.center{
+	display: block;
+	margin: auto;
+	border-style: dotted;
+}
+#quote {
+	text-align: center;
+	font-size: x-large;
+	font-style: italic;
+	background-color: aquamarine;
+}
+
+tr:hover {
+  background-color: yellow;
+}
+
+/* changin backraound color of body*/
+body {
+	background-color: rgb(209, 242, 235);
+	margin: 80px;
+}
